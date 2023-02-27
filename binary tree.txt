@@ -1,0 +1,13 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+binary tree sıralama yapar
+[0,1,2,3,4,5,6,7,8,9]
+
+root 5 dir                             
+                                     root
+                                      5                                       
+                5den küçük                            5den büyük
+                    3                                     7
+       3den küçük      3den büyük            7den küçük             7den büyük
+          1                4                     6                      9 
+1den küçük 1den büyük                                         9dan küçük
+   0           2                                                  8
